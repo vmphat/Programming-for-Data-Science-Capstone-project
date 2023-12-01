@@ -13,3 +13,7 @@
 #### - https://www.kaggle.com/code/jsaguiar/complete-exploratory-analysis-all-columns/notebook
 
 #### - https://github.com/kireeti-kunam/Google-Analytics-Customer-Revenue-Prediction/blob/master/case_study.ipynb
+
+## Preprocessing idea:
+
+#### - Notebooks from 2 courses: Intro-2-DS and Programming-4-DS
