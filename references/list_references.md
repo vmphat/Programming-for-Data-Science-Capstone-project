@@ -21,3 +21,5 @@
 ## Visualization tools:
 
 #### - Plotly document - https://plotly.com/python/
+
+#### - How to present a rich view of the notebook - https://nbviewer.org/
