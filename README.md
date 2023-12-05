@@ -13,3 +13,5 @@
 #### - On `chapter 03`, we need to give quick introduction to the data, then give about 4 questions based on the above introduction.
 
 #### - when introducing to problem we need to solve in `chapter 04`, just reuse the idea from the Kaggle competition.
+
+#### - Change the final observation for question N-th in chapter 3 (replace socole -> corresponding google merchandise that based on the idea of events)
