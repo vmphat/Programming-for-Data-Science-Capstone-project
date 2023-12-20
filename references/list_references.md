@@ -1,25 +1,51 @@
-## Meaning of each column:
+## Tham khảo cách mô tả bài toán:
 
-#### - [UA] BigQuery Export schema - [support.google.com](https://support.google.com/analytics/answer/3437719?hl=en-GBanswer=1686200)
+- Google Analytics Customer Revenue Prediction Description - [kaggle.com](https://www.kaggle.com/competitions/ga-customer-revenue-prediction#:~:text=Merger%20%26%20Entry-,Description,-link)
 
-#### - Kaggle's Dataset Description - [kaggle.com](https://www.kaggle.com/competitions/ga-customer-revenue-prediction/data)
+- Notebook của tác giả **pavansvn** - [github.com/pavansvn](https://github.com/pavansvn/Google-Analytics-Customer-Revenue-Prediction/blob/master/Google%20Analytics%20Customer%20Revenue%20Prediction%20%2B%20Baseline%20Model.ipynb)
 
-## Flatten JSON columns:
+## Tìm hiểu ý nghĩa của các trường dữ liệu (các cột):
 
-#### - Read csv and flatten json fields - [kaggle.com/code/julian3833](https://www.kaggle.com/code/julian3833/1-quick-start-read-csv-and-flatten-json-fields/notebook)
+- [UA] BigQuery Export schema - [support.google.com/analytics](https://support.google.com/analytics/answer/3437719?hl=en-GBanswer=1686200)
 
-## Exploratory analysis idea:
+- Google Analytics Customer Revenue Prediction Dataset Description - [kaggle.com](https://www.kaggle.com/competitions/ga-customer-revenue-prediction/data)
 
-#### - https://www.kaggle.com/code/jsaguiar/complete-exploratory-analysis-all-columns/notebook
+## Cách "làm phẳng" các trường dữ liệu chứa giá trị JSON:
 
-#### - https://github.com/kireeti-kunam/Google-Analytics-Customer-Revenue-Prediction/blob/master/case_study.ipynb
+- Quick start: read csv and flatten json fields - [kaggle.com/code/julian3833](https://www.kaggle.com/code/julian3833/1-quick-start-read-csv-and-flatten-json-fields/notebook)
 
-## Preprocessing idea:
+## Tham khảo về ý tưởng tiền xử lý dữ liệu:
 
-#### - Notebooks from 2 courses: Intro-2-DS and Programming-4-DS
+- Các notebook được cung cấp trong hai môn học "Nhập môn KHDL" và "Lập trình cho KHDL".
 
-## Visualization tools:
+- Notebook của tác giả **abdkumar** - [github.com/abdkumar](https://github.com/abdkumar/Google-Analytics-Customer-Revenue-Prediction/blob/master/customer%20revenue%20prediction.ipynb)
 
-#### - Plotly document - https://plotly.com/python/
+- Notebook của tác giả **kireeti-kunam** - [github.com/kireeti-kunam](https://github.com/kireeti-kunam/Google-Analytics-Customer-Revenue-Prediction/blob/master/case_study.ipynb)
 
-#### - How to present a rich view of the notebook - https://nbviewer.org/
+## Tham khảo về ý tưởng phân tích khám phá dữ liệu (EDA):
+
+- Complete Exploratory analysis (all columns) - [kaggle.com/code/jsaguiar](https://www.kaggle.com/code/jsaguiar/complete-exploratory-analysis-all-columns/notebook)
+
+- Simple Exploration+Baseline - GA Customer Revenue - [kaggle.com/code/sudalairajkumar](https://www.kaggle.com/code/sudalairajkumar/simple-exploration-baseline-ga-customer-revenue)
+
+## Các tài liệu về trực quan hóa dữ liệu:
+
+- Updating code that uses `seaborn.distplot` - [gist.github.com/mwaskom](https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751)
+
+- Adding symbols to some variables in matplotlib bar plots - [stackoverflow.com](https://stackoverflow.com/questions/73189636/adding-symbols-to-some-variables-in-matplotlib-bar-plots)
+
+- Assign specific colours to data in Matplotlib pie chart - [stackoverflow.com](https://stackoverflow.com/questions/35206282/assign-specific-colours-to-data-in-matplotlib-pie-chart)
+
+- How to set the labels size on a pie chart - [stackoverflow.com](https://stackoverflow.com/questions/7082345/how-to-set-the-labels-size-on-a-pie-chart)
+
+- Generating WordClouds in Python Tutorial - [datacamp.com](https://www.datacamp.com/tutorial/wordcloud-python)
+
+- Plotly document - [plotly.com](https://plotly.com/python/)
+
+- How to present a rich view of the notebook - [https://nbviewer.org/](https://nbviewer.org/)
+
+## Các tài liệu tham khảo về sử dụng markdown:
+
+- How To Add Images in Markdown - [digitalocean.com](https://www.digitalocean.com/community/tutorials/markdown-markdown-images)
+
+- How do I center an image in the README.md file on GitHub? - [stackoverflow.com](https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github)
