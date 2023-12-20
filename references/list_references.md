@@ -40,6 +40,10 @@
 
 - Generating WordClouds in Python Tutorial - [datacamp.com](https://www.datacamp.com/tutorial/wordcloud-python)
 
+- Plotly document - [plotly.com](https://plotly.com/python/)
+
+- How to present a rich view of the notebook - [https://nbviewer.org/](https://nbviewer.org/)
+
 ## Các tài liệu tham khảo về sử dụng markdown:
 
 - How To Add Images in Markdown - [digitalocean.com](https://www.digitalocean.com/community/tutorials/markdown-markdown-images)
