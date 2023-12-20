@@ -39,3 +39,9 @@
 - How to set the labels size on a pie chart - [stackoverflow.com](https://stackoverflow.com/questions/7082345/how-to-set-the-labels-size-on-a-pie-chart)
 
 - Generating WordClouds in Python Tutorial - [datacamp.com](https://www.datacamp.com/tutorial/wordcloud-python)
+
+## Các tài liệu tham khảo về sử dụng markdown:
+
+- How To Add Images in Markdown - [digitalocean.com](https://www.digitalocean.com/community/tutorials/markdown-markdown-images)
+
+- How do I center an image in the README.md file on GitHub? - [stackoverflow.com](https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github)
