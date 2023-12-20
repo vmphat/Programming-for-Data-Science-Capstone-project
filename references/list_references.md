@@ -49,3 +49,7 @@
 - How To Add Images in Markdown - [digitalocean.com](https://www.digitalocean.com/community/tutorials/markdown-markdown-images)
 
 - How do I center an image in the README.md file on GitHub? - [stackoverflow.com](https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github)
+
+## Các tài liệu tham khảo về sử dụng Git/GitHub để quản lý source code:
+
+- How to "git pull" from master into the development branch - [stackoverflow.com](https://stackoverflow.com/questions/20101994/how-to-git-pull-from-master-into-the-development-branch)
