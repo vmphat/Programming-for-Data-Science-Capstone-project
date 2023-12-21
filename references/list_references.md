@@ -58,6 +58,8 @@
 
 - Copperplate CSS Font Stack - [cssfontstack.com/Copperplate](https://www.cssfontstack.com/Copperplate)
 
+- CSS Text Spacing - [w3schools.com](https://www.w3schools.com/css/css_text_spacing.asp)
+
 ## Các tài liệu tham khảo về sử dụng Git/GitHub để quản lý source code
 
 - How to "git pull" from master into the development branch - [stackoverflow.com](https://stackoverflow.com/questions/20101994/how-to-git-pull-from-master-into-the-development-branch)
