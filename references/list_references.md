@@ -60,6 +60,8 @@
 
 - CSS Text Spacing - [w3schools.com](https://www.w3schools.com/css/css_text_spacing.asp)
 
+- Extended Syntax - Advanced features that build on the basic Markdown syntax - [markdownguide.offshoot.io](https://markdownguide.offshoot.io/extended-syntax/)
+
 ## Các tài liệu tham khảo về sử dụng Git/GitHub để quản lý source code
 
 - How to "git pull" from master into the development branch - [stackoverflow.com](https://stackoverflow.com/questions/20101994/how-to-git-pull-from-master-into-the-development-branch)
