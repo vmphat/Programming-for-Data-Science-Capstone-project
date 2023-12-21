@@ -1,6 +1,6 @@
 # ĐỒ ÁN CUỐI KỲ - LẬP TRÌNH CHO KHOA HỌC DỮ LIỆU
 
-## Nhóm: `10` - `Origini`
+## Nhóm `10` - `Origini`
 
 ## Danh sách thành viên
 
