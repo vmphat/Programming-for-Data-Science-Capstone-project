@@ -11,4 +11,3 @@ catboost
 bayesian-optimization
 notebook
 wordcloud
-geopandas
