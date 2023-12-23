@@ -4,10 +4,6 @@ tqdm
 matplotlib
 seaborn
 plotly
-scikit-learn
-lightgbm
-xgboost
-catboost
-bayesian-optimization
-notebook
 wordcloud
+geopandas
+notebook
