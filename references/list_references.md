@@ -62,6 +62,10 @@
 
 - Extended Syntax - Advanced features that build on the basic Markdown syntax - [markdownguide.offshoot.io](https://markdownguide.offshoot.io/extended-syntax/)
 
+- How to add empty spaces into MD markdown readme on GitHub? - [stackoverflow.com](https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github)
+
+- Cross-reference (named anchor) in markdown - [stackoverflow.com](https://stackoverflow.com/questions/5319754/cross-reference-named-anchor-in-markdown/7335259#7335259)
+
 ## Các tài liệu tham khảo về sử dụng Git/GitHub để quản lý source code
 
 - How to "git pull" from master into the development branch - [stackoverflow.com](https://stackoverflow.com/questions/20101994/how-to-git-pull-from-master-into-the-development-branch)
