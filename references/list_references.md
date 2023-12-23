@@ -69,3 +69,7 @@
 ## Các tài liệu tham khảo về sử dụng Git/GitHub để quản lý source code
 
 - How to "git pull" from master into the development branch - [stackoverflow.com](https://stackoverflow.com/questions/20101994/how-to-git-pull-from-master-into-the-development-branch)
+
+## Ý tưởng xây dựng cấu trúc thư mục cho toàn bộ đồ án
+
+- Cookiecutter Data Science - [drivendata.github.io/cookiecutter-data-science/](https://drivendata.github.io/cookiecutter-data-science/)
