@@ -73,3 +73,8 @@
 ## Ý tưởng xây dựng cấu trúc thư mục cho toàn bộ đồ án
 
 - Cookiecutter Data Science - [drivendata.github.io/cookiecutter-data-science/](https://drivendata.github.io/cookiecutter-data-science/)
+
+## Quang
+
+- How to Visualise data in Maps Using GeoPandas - [analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/09/how-to-visualise-data-in-maps-using-geopandas/)
+
