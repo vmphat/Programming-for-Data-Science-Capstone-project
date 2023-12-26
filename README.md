@@ -168,9 +168,13 @@ Các bạn xem lại phần `Nơi lưu trữ phụ` để download dữ liệu.
 <!-- -------------------------------------------------------------------- -->
 
 <div class="my_header">
+</div>
 
+<span style="font-family: Tahoma, sans-serif; font-weight: bold; color: lightblue; font-style: italic;">
+
+<!-- My Header -->
 ## Nguồn tham khảo
 
-</div>
+</span>
 
 - Tất cả tài liệu tham khảo đều được nhóm mình đề cập đầy đủ ở file `list_references.md` trong folder `./references`.
