@@ -44,7 +44,9 @@
 
 - Plotly document - [plotly.com](https://plotly.com/python/)
 
-- How to present a rich view of the notebook - [https://nbviewer.org/](https://nbviewer.org/)
+- How to present a rich view of the notebook - [https://nbviewer.org](https://nbviewer.org/)
+
+- How to Visualise data in Maps Using GeoPandas - [analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/09/how-to-visualise-data-in-maps-using-geopandas/)
 
 ## Các tài liệu tham khảo về sử dụng markdown
 
@@ -65,6 +67,8 @@
 - How to add empty spaces into MD markdown readme on GitHub? - [stackoverflow.com](https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github)
 
 - Cross-reference (named anchor) in markdown - [stackoverflow.com](https://stackoverflow.com/questions/5319754/cross-reference-named-anchor-in-markdown/7335259#7335259)
+
+- How to add color to GitHub's README.md file - [stackoverflow.com](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 
 ## Các tài liệu tham khảo về sử dụng Git/GitHub để quản lý source code
 

@@ -35,7 +35,7 @@ Nhóm đặt ra 5 câu hỏi để khám phá dữ liệu, các bạn có thể 
 
 Đầu tiên, bạn nên [tải về và cài đặt Anaconda](https://www.anaconda.com/download) cho hệ điều hành của bạn. Sau đó, bắt đầu cài đặt môi trường phát triển của bạn bằng cách sử dụng ```requirements.txt```. 
 
-**Lưu ý:**: Giả sử bạn muốn sử dụng Python 3.10. Vì vậy, nếu bạn muốn cài đặt các gói này trong phiên bản Python khác, hãy kiểm tra lại tất cả các gói bằng lệnh ```conda search -c conda-forge -f  <package name>``` để xác minh phiên bản của từng gói và thay đổi nó trong tệp ```requirements.txt``` file. 
+**Lưu ý:** Giả sử bạn muốn sử dụng Python 3.10. Vì vậy, nếu bạn muốn cài đặt các gói này trong phiên bản Python khác, hãy kiểm tra lại tất cả các gói bằng lệnh ```conda search -c conda-forge -f  <package name>``` để xác minh phiên bản của từng gói và thay đổi nó trong tệp ```requirements.txt``` file. 
 
 ```bash
 # create conda virtual environment
@@ -92,13 +92,5 @@ Vào mục `<> Code` và chọn mục `Download ZIP` sau đó giải nén.
 Các bạn xem lại phần `Nơi lưu trữ phụ` để download dữ liệu.
 
 ## <font color=lightblue>Nguồn tham khảo</font>
-
-- Tất cả tài liệu tham khảo đều được nhóm mình đề cập đầy đủ ở file `list_references.md` trong folder `./references`.
-
-----------
-
-## <div class="'color': 'lightblue';">Nguồn tham khảo</div>
-
-${\color{lightblue}Light \space Blue}$
 
 - Tất cả tài liệu tham khảo đều được nhóm mình đề cập đầy đủ ở file `list_references.md` trong folder `./references`.
